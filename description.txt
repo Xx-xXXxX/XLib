@@ -1,0 +1,8 @@
+库
+a library
+
+警告：
+这不是稳定版本，不保证内容正确，即使正确也可能修改。
+
+Warning:
+This is not stable and is not guaranteed to be correct.

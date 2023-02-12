@@ -1,0 +1,9 @@
+
+Mods: {
+	XLibrary: {
+		Disabled: Disabled
+		Enabled: Enabled
+		On: On
+		Off: Off
+	}
+}

@@ -1,0 +1,9 @@
+
+Mods: {
+	XLibrary: {
+		Disabled: 已禁用
+		Enabled: 已启用
+		On: 开
+		Off: 关
+	}
+}

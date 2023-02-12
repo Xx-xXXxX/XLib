@@ -1,0 +1,7 @@
+displayName = XLibrary
+author = XNTEABDSC
+version = 0.1.0.3
+hideResources = true
+hideCode = true
+includePDB = true
+homepage = https://github.com/Xx-xXXxX/XLibrary
